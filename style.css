@@ -1,0 +1,36 @@
+#div_1{
+    float: left;
+    margin-left: 200px;
+}
+#div_2{
+    float: right;
+     margin-right: 300px;
+}
+body{
+    text-align: center;
+    background-color: cornsilk;
+}
+#img_3{
+    margin-top: 15px;
+    width: 300px;
+    height: 200px;
+}
+#div_4{
+    margin-top: 30px;
+}
+p{
+    background-color: white;
+    margin-top: 0px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+}
+img{
+    width: 300px;
+}
+#img_1{
+    height: 200px;
+}
+h1{
+    color: purple;
+    border: 2px dashed; 
+}
